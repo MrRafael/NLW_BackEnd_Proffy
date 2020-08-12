@@ -8,7 +8,7 @@
     Helping students to find teachers
 </h3>
 
-<p>
+<p align="center">
  <a href="#about">About</a> •
  <a href="#how-to-start">How to start</a> • 
  <a href="#tech-stack">Tech Stack</a> • 
