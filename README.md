@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-     <a href="#" alt="site do ecoleta"> Proffy </a>
+    Proffy 
 </h1>
 
 <h3 align="center">
