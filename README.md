@@ -12,7 +12,6 @@
  <a href="#about">About</a> •
  <a href="#how-to-start">How to start</a> • 
  <a href="#tech-stack">Tech Stack</a> • 
- <a href="#author">Author</a>
 </p>
 
 
@@ -69,13 +68,3 @@ The following tools were used in the construction of the project:
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[KnexJS](http://knexjs.org/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
-
----
-
-<h2 id="author"> Auhor </h2>
-
-<a href="https://www.linkedin.com/in/devrafa/">
- <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/19240037?s=460&u=82bc1909ae182fde14dc556c655ce386d859ae46&v=4" width="100px;" alt="Rafael Alexandre"/>
- <br />
- <sub><b>Rafael Alexandre</b></sub></a> <a href="https://www.linkedin.com/in/devrafa/" title="Linkedin"></a>
- <br />
